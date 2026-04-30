@@ -24,3 +24,7 @@ Automatizar el proceso de reporting operativo, reduciendo tiempos manuales y mej
 🔧 Próximos pasos
 - Integración con dashboards (Power BI)
 - Automatización diaria
+
+ ## 📊 Reporte generado
+
+![Reporte](images/python_RESULTADOFINAL.PNG)
