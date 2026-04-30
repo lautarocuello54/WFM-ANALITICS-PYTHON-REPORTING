@@ -27,5 +27,4 @@ Automatizar el proceso de reporting operativo, reduciendo tiempos manuales y mej
 
  ## 📊 Reporte generado
 
-![Resultado Final] ()
-[Ver reporte PNG](./RESULTADO FINAL.png)
+![Reporte](images/RESULTADO FINAL.png)
