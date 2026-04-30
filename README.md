@@ -27,4 +27,4 @@ Automatizar el proceso de reporting operativo, reduciendo tiempos manuales y mej
 
  ## 📊 Reporte generado
 
-![Reporte](images/python_RESULTADOFINAL.PNG)
+![Resultado Final]("C:\Users\lautaro.cuello\Pictures\RESULTADO FINAL.png")
