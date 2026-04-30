@@ -6,8 +6,8 @@ from IPython.display import display, HTML
 if 'historial_gtr' not in globals():
     historial_gtr = {}
 
-CLIENT_ID = 'acf07356-3737-4aa5-9460-6e03b617af1a'
-CLIENT_SECRET = 'G57C__uvBvgY8puqBHoHATtY0G1UQ0PwT8c1AQhfJTUFtiRH80WypxJDjhfw'
+CLIENT_ID = 'acá se completa con el dato'
+CLIENT_SECRET = 'acá se completa con el dato'
 
 # Mapeo de IDs de agentes por equipo para el cálculo de Avail
 agentes_por_equipo = {
